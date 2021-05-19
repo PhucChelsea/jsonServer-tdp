@@ -10,7 +10,7 @@ GET {{baseUrl}}/{{resoureName}}
 
 # @name pagination
 
-GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=10
+GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=4
 
 ###
 

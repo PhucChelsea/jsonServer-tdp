@@ -27,18 +27,20 @@ router.render = (req, res) => {
   // check GET with pagination
   //if yes, custom output
 
-  //   console.log(req.query); // {}
+  // console.log(req.query); // {}
   const headers = res.getHeaders();
+
   const totalCountHeader = headers['x-total-count'];
+
   if (req.method === 'GET' && totalCountHeader) {
     console.log(req);
     const queryParams = queryString.parse(req._parsedUrl.query);
     console.log(queryParams); //{}
     const result = {
-      data: res.locals.data,
+      data_s: res.locals.data,
       pagination: {
         _page: Number.parseInt(queryParams._page) || 1,
-        _limit: Number.parseInt(queryParams._limit) || 5,
+        _limit: Number.parseInt(queryParams._limit) || 4,
         _totalRows: Number.parseInt(totalCountHeader),
       },
     };
