@@ -68,9 +68,9 @@ const randomTopSellingList = (productList, numberOfTopSelling) => {
 
 (() => {
   //random du lieu
-  const productList = randomProductList(10);
+  const productList = randomProductList(4);
   const topSellingList = randomTopSellingList(productList, 4);
-  const infoBonusList = randomInfoBonusList(5);
+  const infoBonusList = randomInfoBonusList(12);
 
   //prepare data object
   const data = {

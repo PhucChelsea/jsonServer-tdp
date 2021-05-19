@@ -11,7 +11,7 @@ GET {{baseUrl}}/{{resoureName}}
 
 # @name pagination
 
-GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=3
+GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=4
 
 ###
 
