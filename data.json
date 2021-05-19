@@ -1,1 +1,438 @@
-{"products":[{"id":14372,"name":"Small Steel Car","image":"http://placeimg.com/640/480","description":"The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design","color":"ivory","price":935},{"id":89875,"name":"Unbranded Wooden Bacon","image":"http://placeimg.com/640/480","description":"The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design","color":"teal","price":628},{"id":46433,"name":"Incredible Cotton Pizza","image":"http://placeimg.com/640/480","description":"The Football Is Good For Training And Recreational Purposes","color":"maroon","price":769},{"id":30122,"name":"Gorgeous Wooden Chicken","image":"http://placeimg.com/640/480","description":"The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality","color":"mint green","price":925}],"top_selling":[{"productId":14372,"id":42252,"name":"Gorgeous Wooden Table","image":"http://placeimg.com/640/480","color":"magenta","price":884},{"productId":14372,"id":20742,"name":"Generic Soft Fish","image":"http://placeimg.com/640/480","color":"blue","price":350},{"productId":14372,"id":12993,"name":"Tasty Steel Keyboard","image":"http://placeimg.com/640/480","color":"blue","price":389},{"productId":89875,"id":85049,"name":"Handcrafted Frozen Mouse","image":"http://placeimg.com/640/480","color":"purple","price":620},{"productId":89875,"id":6101,"name":"Fantastic Concrete Car","image":"http://placeimg.com/640/480","color":"yellow","price":929},{"productId":89875,"id":9135,"name":"Small Fresh Salad","image":"http://placeimg.com/640/480","color":"olive","price":271},{"productId":46433,"id":66767,"name":"Sleek Granite Soap","image":"http://placeimg.com/640/480","color":"mint green","price":280},{"productId":46433,"id":93141,"name":"Incredible Steel Gloves","image":"http://placeimg.com/640/480","color":"sky blue","price":741},{"productId":46433,"id":63957,"name":"Handmade Cotton Chair","image":"http://placeimg.com/640/480","color":"lavender","price":241},{"productId":30122,"id":43862,"name":"Ergonomic Wooden Sausages","image":"http://placeimg.com/640/480","color":"gold","price":280},{"productId":30122,"id":92442,"name":"Tasty Metal Hat","image":"http://placeimg.com/640/480","color":"maroon","price":585},{"productId":30122,"id":14325,"name":"Handmade Steel Pants","image":"http://placeimg.com/640/480","color":"olive","price":961}],"info_bonus":[{"image":"http://placeimg.com/640/480","title":"Soluta esse tempore facere.","text":"Rerum voluptas doloribus vero tempora labore explicabo voluptate inventore assumenda.","color":"indigo"},{"image":"http://placeimg.com/640/480","title":"Magnam nihil architecto est dolorem.","text":"Rerum ratione qui.\nHarum et ipsa aspernatur omnis.\nAd nostrum voluptatem autem quos.\nEos doloribus reprehenderit aut sed ullam odio ipsa consequatur.","color":"lime"},{"image":"http://placeimg.com/640/480","title":"Eveniet officia autem porro enim fugiat officiis quod.","text":"ratione sunt architecto","color":"olive"},{"image":"http://placeimg.com/640/480","title":"Corporis quam magnam aut recusandae nobis dolorem odit.","text":"Omnis perspiciatis numquam harum dolorem minus. Et provident quidem fugit officia eum eligendi animi. Rerum aut assumenda aut aut cum possimus perferendis. Earum optio consequatur et unde. Et et dolor architecto pariatur.\n \rQui blanditiis enim omnis blanditiis at totam. Eum voluptatibus consequatur aut et. Nulla sit illo aliquam tempora sit est nobis voluptas. Inventore debitis molestias blanditiis dolor nesciunt. Consequatur corrupti et aliquid quia itaque. Sunt et fugit ratione dolor cumque eum enim quis.\n \rEsse ad est omnis iure. Aut alias pariatur. Architecto aperiam asperiores minus molestiae numquam ipsam in inventore libero. Vel quis consequatur omnis aut totam ea. Eos dolores natus eum impedit.","color":"turquoise"}]}
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "VinFast President",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/president_0008_president-white.jpg",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "color": "blue",
+      "price": 3800000000
+    },
+    {
+      "id": 12376,
+      "name": "Fantastic Fresh Pants",
+      "image": "http://placeimg.com/640/480",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "color": "olive",
+      "price": 754
+    },
+    {
+      "id": 89446,
+      "name": "Rustic Fresh Keyboard",
+      "image": "http://placeimg.com/640/480",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "color": "red",
+      "price": 156
+    },
+    {
+      "id": 38702,
+      "name": "Refined Cotton Soap",
+      "image": "http://placeimg.com/640/480",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "color": "orchid",
+      "price": 171
+    },
+    {
+      "id": 66122,
+      "name": "Generic Frozen Soap",
+      "image": "http://placeimg.com/640/480",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "color": "black",
+      "price": 440
+    },
+    {
+      "id": 93226,
+      "name": "Sleek Rubber Keyboard",
+      "image": "http://placeimg.com/640/480",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "color": "cyan",
+      "price": 749
+    },
+    {
+      "id": 79159,
+      "name": "Handcrafted Steel Sausages",
+      "image": "http://placeimg.com/640/480",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "color": "tan",
+      "price": 145
+    },
+    {
+      "id": 79244,
+      "name": "Licensed Concrete Shirt",
+      "image": "http://placeimg.com/640/480",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "color": "pink",
+      "price": 324
+    },
+    {
+      "id": 26755,
+      "name": "Fantastic Granite Soap",
+      "image": "http://placeimg.com/640/480",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "color": "cyan",
+      "price": 74
+    },
+    {
+      "id": 95347,
+      "name": "Incredible Fresh Bacon",
+      "image": "http://placeimg.com/640/480",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "color": "orange",
+      "price": 290
+    }
+  ],
+  "top_selling": [
+    {
+      "productId": 19060,
+      "id": 53297,
+      "name": "Tasty Wooden Pants",
+      "image": "http://placeimg.com/640/480",
+      "color": "salmon",
+      "price": 925
+    },
+    {
+      "productId": 19060,
+      "id": 92866,
+      "name": "Intelligent Steel Computer",
+      "image": "http://placeimg.com/640/480",
+      "color": "red",
+      "price": 38
+    },
+    {
+      "productId": 19060,
+      "id": 64809,
+      "name": "Ergonomic Concrete Gloves",
+      "image": "http://placeimg.com/640/480",
+      "color": "mint green",
+      "price": 818
+    },
+    {
+      "productId": 19060,
+      "id": 45753,
+      "name": "Gorgeous Cotton Shirt",
+      "image": "http://placeimg.com/640/480",
+      "color": "ivory",
+      "price": 712
+    },
+    {
+      "productId": 12376,
+      "id": 80154,
+      "name": "Rustic Plastic Towels",
+      "image": "http://placeimg.com/640/480",
+      "color": "purple",
+      "price": 479
+    },
+    {
+      "productId": 12376,
+      "id": 58646,
+      "name": "Refined Soft Soap",
+      "image": "http://placeimg.com/640/480",
+      "color": "turquoise",
+      "price": 318
+    },
+    {
+      "productId": 12376,
+      "id": 96801,
+      "name": "Handcrafted Cotton Towels",
+      "image": "http://placeimg.com/640/480",
+      "color": "white",
+      "price": 324
+    },
+    {
+      "productId": 12376,
+      "id": 89352,
+      "name": "Rustic Fresh Pizza",
+      "image": "http://placeimg.com/640/480",
+      "color": "maroon",
+      "price": 518
+    },
+    {
+      "productId": 89446,
+      "id": 70856,
+      "name": "Sleek Rubber Sausages",
+      "image": "http://placeimg.com/640/480",
+      "color": "teal",
+      "price": 711
+    },
+    {
+      "productId": 89446,
+      "id": 23316,
+      "name": "Handmade Cotton Chips",
+      "image": "http://placeimg.com/640/480",
+      "color": "red",
+      "price": 128
+    },
+    {
+      "productId": 89446,
+      "id": 89170,
+      "name": "Licensed Cotton Chicken",
+      "image": "http://placeimg.com/640/480",
+      "color": "purple",
+      "price": 74
+    },
+    {
+      "productId": 89446,
+      "id": 82229,
+      "name": "Licensed Fresh Towels",
+      "image": "http://placeimg.com/640/480",
+      "color": "blue",
+      "price": 520
+    },
+    {
+      "productId": 38702,
+      "id": 48414,
+      "name": "Intelligent Soft Mouse",
+      "image": "http://placeimg.com/640/480",
+      "color": "pink",
+      "price": 810
+    },
+    {
+      "productId": 38702,
+      "id": 97032,
+      "name": "Licensed Steel Bacon",
+      "image": "http://placeimg.com/640/480",
+      "color": "gold",
+      "price": 326
+    },
+    {
+      "productId": 38702,
+      "id": 29904,
+      "name": "Intelligent Soft Pants",
+      "image": "http://placeimg.com/640/480",
+      "color": "azure",
+      "price": 768
+    },
+    {
+      "productId": 38702,
+      "id": 76214,
+      "name": "Gorgeous Granite Soap",
+      "image": "http://placeimg.com/640/480",
+      "color": "turquoise",
+      "price": 780
+    },
+    {
+      "productId": 66122,
+      "id": 2989,
+      "name": "Refined Wooden Car",
+      "image": "http://placeimg.com/640/480",
+      "color": "mint green",
+      "price": 726
+    },
+    {
+      "productId": 66122,
+      "id": 79841,
+      "name": "Refined Concrete Fish",
+      "image": "http://placeimg.com/640/480",
+      "color": "ivory",
+      "price": 252
+    },
+    {
+      "productId": 66122,
+      "id": 72182,
+      "name": "Awesome Frozen Shoes",
+      "image": "http://placeimg.com/640/480",
+      "color": "teal",
+      "price": 758
+    },
+    {
+      "productId": 66122,
+      "id": 64696,
+      "name": "Sleek Metal Tuna",
+      "image": "http://placeimg.com/640/480",
+      "color": "white",
+      "price": 156
+    },
+    {
+      "productId": 93226,
+      "id": 63436,
+      "name": "Small Plastic Mouse",
+      "image": "http://placeimg.com/640/480",
+      "color": "pink",
+      "price": 293
+    },
+    {
+      "productId": 93226,
+      "id": 14113,
+      "name": "Rustic Fresh Car",
+      "image": "http://placeimg.com/640/480",
+      "color": "maroon",
+      "price": 775
+    },
+    {
+      "productId": 93226,
+      "id": 56792,
+      "name": "Gorgeous Soft Bacon",
+      "image": "http://placeimg.com/640/480",
+      "color": "maroon",
+      "price": 624
+    },
+    {
+      "productId": 93226,
+      "id": 71467,
+      "name": "Generic Cotton Computer",
+      "image": "http://placeimg.com/640/480",
+      "color": "violet",
+      "price": 355
+    },
+    {
+      "productId": 79159,
+      "id": 83375,
+      "name": "Ergonomic Granite Bacon",
+      "image": "http://placeimg.com/640/480",
+      "color": "red",
+      "price": 431
+    },
+    {
+      "productId": 79159,
+      "id": 1999,
+      "name": "Licensed Cotton Sausages",
+      "image": "http://placeimg.com/640/480",
+      "color": "grey",
+      "price": 420
+    },
+    {
+      "productId": 79159,
+      "id": 72538,
+      "name": "Intelligent Frozen Pants",
+      "image": "http://placeimg.com/640/480",
+      "color": "sky blue",
+      "price": 608
+    },
+    {
+      "productId": 79159,
+      "id": 14956,
+      "name": "Sleek Frozen Pizza",
+      "image": "http://placeimg.com/640/480",
+      "color": "lime",
+      "price": 785
+    },
+    {
+      "productId": 79244,
+      "id": 89264,
+      "name": "Incredible Steel Shoes",
+      "image": "http://placeimg.com/640/480",
+      "color": "ivory",
+      "price": 484
+    },
+    {
+      "productId": 79244,
+      "id": 61391,
+      "name": "Tasty Rubber Ball",
+      "image": "http://placeimg.com/640/480",
+      "color": "teal",
+      "price": 439
+    },
+    {
+      "productId": 79244,
+      "id": 17666,
+      "name": "Incredible Metal Salad",
+      "image": "http://placeimg.com/640/480",
+      "color": "olive",
+      "price": 723
+    },
+    {
+      "productId": 79244,
+      "id": 54092,
+      "name": "Unbranded Granite Soap",
+      "image": "http://placeimg.com/640/480",
+      "color": "orange",
+      "price": 645
+    },
+    {
+      "productId": 26755,
+      "id": 63172,
+      "name": "Handmade Wooden Fish",
+      "image": "http://placeimg.com/640/480",
+      "color": "plum",
+      "price": 995
+    },
+    {
+      "productId": 26755,
+      "id": 49436,
+      "name": "Incredible Steel Soap",
+      "image": "http://placeimg.com/640/480",
+      "color": "grey",
+      "price": 785
+    },
+    {
+      "productId": 26755,
+      "id": 84738,
+      "name": "Licensed Metal Fish",
+      "image": "http://placeimg.com/640/480",
+      "color": "white",
+      "price": 712
+    },
+    {
+      "productId": 26755,
+      "id": 18856,
+      "name": "Fantastic Fresh Chips",
+      "image": "http://placeimg.com/640/480",
+      "color": "green",
+      "price": 266
+    },
+    {
+      "productId": 95347,
+      "id": 24972,
+      "name": "Gorgeous Concrete Chicken",
+      "image": "http://placeimg.com/640/480",
+      "color": "fuchsia",
+      "price": 95
+    },
+    {
+      "productId": 95347,
+      "id": 60856,
+      "name": "Incredible Frozen Pizza",
+      "image": "http://placeimg.com/640/480",
+      "color": "maroon",
+      "price": 357
+    },
+    {
+      "productId": 95347,
+      "id": 87768,
+      "name": "Generic Frozen Gloves",
+      "image": "http://placeimg.com/640/480",
+      "color": "red",
+      "price": 555
+    },
+    {
+      "productId": 95347,
+      "id": 24673,
+      "name": "Handmade Wooden Car",
+      "image": "http://placeimg.com/640/480",
+      "color": "red",
+      "price": 282
+    }
+  ],
+  "info_bonus": [
+    {
+      "image": "http://placeimg.com/640/480",
+      "title": "Rerum non excepturi vitae qui ducimus consequatur dignissimos natus.",
+      "text": "Nisi eveniet optio omnis impedit assumenda doloribus. Et debitis saepe.",
+      "color": "black"
+    },
+    {
+      "image": "http://placeimg.com/640/480",
+      "title": "In deleniti inventore odit nisi ut quod consequatur ea.",
+      "text": "Aut ipsum alias vel et. Et molestiae et animi. Voluptatem porro sed in eos velit. Veritatis ut quaerat ipsum velit laboriosam numquam aut. Exercitationem voluptatum nam aut eum sunt. Occaecati doloremque facere pariatur iure.",
+      "color": "teal"
+    },
+    {
+      "image": "http://placeimg.com/640/480",
+      "title": "Reprehenderit labore consequatur rerum dignissimos et quia.",
+      "text": "Sed sint eos dolorem. Doloremque ipsum velit. Voluptas ratione quo iusto porro et molestiae soluta. Quas pariatur quia. Voluptatibus non aut blanditiis.\n \rSint aliquid id. Enim perspiciatis illum possimus et et nostrum explicabo occaecati. Dolor nulla numquam rerum. Molestiae voluptatibus ipsa.\n \rEius itaque expedita. Blanditiis ut est libero assumenda nesciunt. Dignissimos tempore aspernatur aut ut molestiae quae. Ut reiciendis impedit laboriosam totam et. Voluptas excepturi adipisci quibusdam autem iure commodi sed dolorem. Reiciendis alias porro ut ut excepturi.",
+      "color": "lavender"
+    },
+    {
+      "image": "http://placeimg.com/640/480",
+      "title": "Ab voluptatem sapiente pariatur illum autem expedita ut explicabo.",
+      "text": "magnam non officiis",
+      "color": "green"
+    },
+    {
+      "image": "http://placeimg.com/640/480",
+      "title": "A corrupti et voluptate dolor quia eum voluptatem.",
+      "text": "eius",
+      "color": "green"
+    }
+  ]
+}

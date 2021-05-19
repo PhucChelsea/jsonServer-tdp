@@ -1,5 +1,5 @@
-const faker = require("faker");
-const fs = require("fs");
+const faker = require('faker');
+const fs = require('fs');
 // set locale to use vietnamese
 
 //random data
@@ -68,9 +68,9 @@ const randomTopSellingList = (productList, numberOfTopSelling) => {
 
 (() => {
   //random du lieu
-  const productList = randomProductList(4);
-  const topSellingList = randomTopSellingList(productList, 3);
-  const infoBonusList = randomInfoBonusList(4);
+  const productList = randomProductList(10);
+  const topSellingList = randomTopSellingList(productList, 4);
+  const infoBonusList = randomInfoBonusList(5);
 
   //prepare data object
   const data = {
@@ -80,7 +80,7 @@ const randomTopSellingList = (productList, numberOfTopSelling) => {
   };
 
   //write data object to data.json
-  fs.writeFile("data.json", JSON.stringify(data), () => {
-    console.log("Generate data successfully !!!!!!!!");
+  fs.writeFile('data.json', JSON.stringify(data), () => {
+    console.log('Generate data successfully !!!!!!!!');
   });
 })();
