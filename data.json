@@ -9,55 +9,55 @@
       "price": 3800000000
     },
     {
-      "id": 12376,
-      "name": "Fantastic Fresh Pants",
-      "image": "http://placeimg.com/640/480",
+      "id": 2,
+      "name": "VinFast Lux SA 2.0",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0005_LUX-SA-2-do5.jpg",
       "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
       "color": "olive",
-      "price": 754
+      "price": 1226165000
     },
     {
-      "id": 89446,
-      "name": "Rustic Fresh Keyboard",
-      "image": "http://placeimg.com/640/480",
+      "id": 3,
+      "name": "VinFast Lux A 2.0",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0003_lux-a2-b5.jpg",
       "description": "The Football Is Good For Training And Recreational Purposes",
       "color": "red",
-      "price": 156
+      "price": 881695000
     },
     {
-      "id": 38702,
-      "name": "Refined Cotton Soap",
-      "image": "http://placeimg.com/640/480",
+      "id": 4,
+      "name": "Vinfast Fadil",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0000_fadil-green-dark.jpg",
       "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
       "color": "orchid",
-      "price": 171
+      "price": 382500000
     },
     {
-      "id": 66122,
-      "name": "Generic Frozen Soap",
-      "image": "http://placeimg.com/640/480",
+      "id": 5,
+      "name": "VinFast VF E34",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/vfe34_0001_Layer-13.jpg",
       "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
       "color": "black",
-      "price": 440
+      "price": 590000000
     },
     {
-      "id": 93226,
-      "name": "Sleek Rubber Keyboard",
-      "image": "http://placeimg.com/640/480",
+      "id": 6,
+      "name": "Vinfast Fadil",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0001_fadil-blue.jpg",
       "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
       "color": "cyan",
-      "price": 749
+      "price": 382500000
     },
     {
-      "id": 79159,
-      "name": "Handcrafted Steel Sausages",
-      "image": "http://placeimg.com/640/480",
+      "id": 7,
+      "name": "VinFast Lux SA 2.0",
+      "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0001_LUX-SA-2-n5.jpg",
       "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
       "color": "tan",
-      "price": 145
+      "price": 1226165000
     },
     {
-      "id": 79244,
+      "id": 8,
       "name": "Licensed Concrete Shirt",
       "image": "http://placeimg.com/640/480",
       "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
@@ -65,7 +65,7 @@
       "price": 324
     },
     {
-      "id": 26755,
+      "id": 9,
       "name": "Fantastic Granite Soap",
       "image": "http://placeimg.com/640/480",
       "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
@@ -73,7 +73,7 @@
       "price": 74
     },
     {
-      "id": 95347,
+      "id": 10,
       "name": "Incredible Fresh Bacon",
       "image": "http://placeimg.com/640/480",
       "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
