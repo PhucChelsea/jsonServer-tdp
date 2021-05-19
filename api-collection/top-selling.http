@@ -1,0 +1,51 @@
+@baseUrl=http://localhost:3000/api
+@resoureName=top_selling
+
+
+#top_selling
+
+# @name getAll
+GET {{baseUrl}}/{{resoureName}}
+
+###
+
+# @name pagination
+
+GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=3
+
+###
+
+# @name filler
+
+GET {{baseUrl}}/{{resoureName}}?price_gte>=100
+
+###
+
+# @name addNew
+
+POST {{baseUrl}}/{{resoureName}}
+
+Content-Type: application/json
+
+{
+"name":"VF 34"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resoureName}}/1
+
+Content-Type: application/json
+
+{
+    "name": "President"
+}
+
+###
+
+# @name delete
+DELETE {{baseUrl}}/{{resoureName}}/1
+
+
+###

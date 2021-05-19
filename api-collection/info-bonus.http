@@ -1,0 +1,49 @@
+
+@baseUrl=http://localhost:3000/api
+@resoureName=info_bonus
+
+
+#info_bonus
+
+# @name getAll
+
+GET {{baseUrl}}/{{resoureName}}
+
+
+###
+
+# @name pagination
+
+GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=10
+
+###
+
+# @name add
+
+POST {{baseUrl}}/{{resoureName}}
+
+Content-Type: application/json
+
+{
+"title":"VF "
+}
+
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resoureName}}/1
+
+Content-Type: application/json
+
+{
+    "title": "President"
+}
+
+###
+
+# @name delete
+DELETE {{baseUrl}}/{{resoureName}}/1
+
+
+###

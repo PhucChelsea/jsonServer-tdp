@@ -1,0 +1,66 @@
+
+@baseUrl=http://localhost:3000/api
+@resoureName=products
+#products
+
+# @name getAll
+GET {{baseUrl}}/{{resoureName}}
+
+###
+
+# @name pagination
+
+GET {{baseUrl}}/{{resoureName}}?_page=1&_limit=10
+
+###
+
+# @name like
+
+GET {{baseUrl}}/{{resoureName}}?name_like=Rubber
+
+###
+
+
+# @name sort
+
+GET {{baseUrl}}/{{resoureName}}?_sort=price&_oder=desc
+
+###
+
+# @name addNew
+
+POST {{baseUrl}}/{{resoureName}}
+
+Content-Type: application/json
+
+{   
+    "name":" Vin President",
+    "image": "https://storage.googleapis.com/vinfast-data-01/SA2.0.2_0.png",
+    "description": "lorem kasgkjasgkjfahkshalkagsjl",
+    "color": "red",
+    "price": "1 000 000 000"
+}
+
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resoureName}}/2
+
+Content-Type: application/json
+
+{
+    "name": "President"
+}
+
+###
+
+# @name delete
+DELETE {{baseUrl}}/{{resoureName}}/4
+
+
+###
+
+
+
+
+
